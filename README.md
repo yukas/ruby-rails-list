@@ -9,3 +9,6 @@ List of links on programming topics worth reading (mostly Ruby, Rails and OOP)
 
 ### Service Objects
 [Gourmet Service Objects](http://brewhouse.io/blog/2014/04/30/gourmet-service-objects.html)
+
+### Testing
+[Magic Tricks of Testing](https://www.youtube.com/watch?v=qPfQM4w4I04) talk by Sandi Metz
