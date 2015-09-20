@@ -12,3 +12,6 @@ List of links on programming topics worth reading (mostly Ruby, Rails and OOP)
 
 ### Testing
 [Magic Tricks of Testing](https://www.youtube.com/watch?v=qPfQM4w4I04) talk by Sandi Metz
+
+### Unix
+[Understanding binstubs](https://github.com/sstephenson/rbenv/wiki/Understanding-binstubs)
