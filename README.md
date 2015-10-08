@@ -18,3 +18,6 @@ List of links on programming topics worth reading (mostly Ruby, Rails and OOP)
 
 ### Blogging
 [Present one idea at a time and let others build upon it](http://sivers.org/1idea)
+
+### Business
+[Unemployed Rails developer?](http://blog.excelwithcode.com/unemployed-rails-developer.html)
