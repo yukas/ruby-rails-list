@@ -27,4 +27,5 @@ List of links on programming topics worth reading (mostly Ruby, Rails and OOP)
 
 ### Working remotely
 [Remote](http://www.moishelettvin.com/2015/10/16/remotes)
-Due to twitter poll, the hardest things about remote work are: communication, loneliness, isolation, timezones and discipline.
+
+> Due to twitter poll, the hardest things about remote work are: communication, loneliness, isolation, timezones and discipline.
